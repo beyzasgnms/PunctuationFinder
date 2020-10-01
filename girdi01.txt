@@ -1,0 +1,2 @@
+110,Ali Cetin,MuhendislikFakultesi
+Imagine mechanical tutrle that walks around room under conntrol  Java application. The turtle holds pem using two positions, which are upper and down. The defalut position upper.

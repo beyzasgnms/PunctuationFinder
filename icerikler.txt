@@ -1,0 +1,6 @@
+﻿icerik1.txt
+icerik2.txt
+icerik3.txt
+icerik4.txt
+icerik5.txt
+// İşe yaramadı.
